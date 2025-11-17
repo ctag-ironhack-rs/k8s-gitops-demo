@@ -3,4 +3,4 @@ Laboratorio de GitOps para despliegues de Kubernetes
 
 ![ArgoCD](screenshots/argocd.png)
 
-![kubectl](screenshots/argocd.png)
+![kubectl](screenshots/kubectl.png)
